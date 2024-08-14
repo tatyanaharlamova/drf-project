@@ -4,5 +4,6 @@
 
 Также это можно сделать в две команды:
 
-docker-compose build
-docker-compose up (можно добавить флаг -d для запуска в фоновом режиме)
+- docker-compose build
+
+- docker-compose up (можно добавить флаг -d для запуска в фоновом режиме)
